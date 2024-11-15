@@ -5,3 +5,7 @@
 - Returns the total calculated from coins inserted.
 - Return true when the payment is accepted, or false if money is insufficient.
 - Deduct the required ingredients from the resources.
+- I have added also another Coffee Machine code.
+- In this code is developed using object oriented programming.
+- Also added a new feature to refill the coffee machine.
+- The coffee machine can be refilled using refill by giving it as the input.
